@@ -1,0 +1,52 @@
+body
+{
+    background-image:url(mouintain.jpg);
+    
+    background-repeat: no-repeat; 
+    background-size: cover;
+    margin : 0;
+    margin-top: 10%;
+    
+ 
+}
+.mydiv{
+     
+     
+     
+    text-align: center;    width: 450px;
+    background: #ffbf80;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+        
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+} }
+h1{
+    line-height:150px; font-size: 40px;
+letter-spacing: 4px;
+font-weight: 100;
+}
+h1:hover{color: black;}
+h3{    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+h3:hover{color:black;}
+P{line-height: 30px; 
+    padding-top: 10%; 
+    font-size:100%;
+    color: azure; }
+p:hover{color:black;}
+img{height: 30%;
+    width: 30%; 
+    border-radius:100%; }
+.mydiv ul li{ 
+        display: inline-block;
+    margin: 6px;
+    list-style: none;
+     
+    padding-top: 30%;height: 250px;}
+li:hover{background-color: antiquewhite;}
+
